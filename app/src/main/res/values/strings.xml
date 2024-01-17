@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Improve Yourself</string>
+
+    <string name="menu_item_card">Kártyák</string>
+    <string name="menu_item_grammar">Nyelvtan</string>
+    <string name="menu_item_pracitce">Gyakorlás</string>
+    <string name="menu_item_statistics">Statisztika</string>
+
+    <string name="card_type_word">Szókártya</string>
+    <string name="card_type_expression">Kifejezés</string>
+    <string name="card_type_idioma">Idióma</string>
+    <string name="card_type_practice">Gyakorlás</string>
+    <string name="card_type_other">Egyéb</string>
+
+    <string name="card_type">Típus</string>
+    <string name="card_content">Kártya tartalma</string>
+    <string name="card_meaning">Jelentése</string>
+    <string name="card_explanation">Magyarázat</string>
+    <string name="card_example">Példa</string>
+    <string name="card_image">Kép</string>
+
+    <string name="card_save">Mentés</string>
+</resources>
